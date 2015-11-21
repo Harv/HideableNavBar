@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HideableNavBar</string>
+    <string name="app_description">Swipe from/to bottom to toggle navigation bar</string>
+</resources>
